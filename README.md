@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony
-- 👀 I’m interested in Java coding
-- 🌱 I’m currently learning Java basics
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning React basics
 
 
 <!---
